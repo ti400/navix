@@ -1,2 +1,0 @@
-# navix
-Produção 3
